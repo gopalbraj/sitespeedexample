@@ -1,0 +1,72 @@
+{
+    "budget": {
+        "Home Page": {
+            "googleWebVitals": {
+                "firstContentfulPaint": 1800,
+                "largestContentfulPaint": 2500,
+                "interactionToNextPaint": 200,
+                "totalBlockingTime": 200,
+                "cumulativeLayoutShift": 0.1
+            },
+            "score": {
+                "bestpractice": 100,
+                "privacy": 100,
+                "performance": 100
+            }
+        },
+        "Product listing Page": {
+            "googleWebVitals": {
+                "firstContentfulPaint": 1800,
+                "largestContentfulPaint": 2500,
+                "interactionToNextPaint": 200,
+                "totalBlockingTime": 200,
+                "cumulativeLayoutShift": 0.1
+            },
+            "score": {
+                "bestpractice": 100,
+                "privacy": 100,
+                "performance": 100
+            }
+        },
+        "PDP Page": {
+            "googleWebVitals": {
+                "firstContentfulPaint": 1800,
+                "largestContentfulPaint": 2500,
+                "interactionToNextPaint": 200,
+                "totalBlockingTime": 200,
+                "cumulativeLayoutShift": 0.1
+            },
+            "score": {
+                "bestpractice": 100,
+                "privacy": 100,
+                "performance": 100
+            }
+        },
+        "Plans Interstitial Page": {
+            "googleWebVitals": {
+                "firstContentfulPaint": 1800,
+                "largestContentfulPaint": 2500,
+                "interactionToNextPaint": 200,
+                "totalBlockingTime": 200,
+                "cumulativeLayoutShift": 0.1
+            },
+            "score": {
+                "bestpractice": 100,
+                "privacy": 100,
+                "performance": 100
+            }
+        },
+        "googleWebVitals": {
+            "firstContentfulPaint": 1800,
+            "largestContentfulPaint": 2500,
+            "interactionToNextPaint": 200,
+            "totalBlockingTime": 200,
+            "cumulativeLayoutShift": 0.1
+        },
+        "score": {
+            "bestpractice": 100,
+            "privacy": 100,
+            "performance": 100
+        }
+    }
+}
